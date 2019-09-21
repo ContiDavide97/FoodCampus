@@ -1,0 +1,83 @@
+#mainForm{
+    margin-top: 100px;
+}
+
+#categoriesSection {
+    margin-bottom: 15px;
+}
+
+#categoryField {
+    margin-bottom: 25px;
+}
+
+#resultsField {
+    padding: 0px;
+}
+
+.errorElement {
+    margin-top: 8px;
+}
+
+.categoryElementError {
+    margin-top: 8px;
+    text-align: center;
+}
+
+.reviewValues {
+    font-weight: bold;
+}
+
+.big-checkbox {
+    width: 15px;
+    height: 15px;
+}
+
+.footer-distributed {
+    margin-top: 220px !important;
+}
+
+h1 {
+    color: #F83442;
+    margin-bottom: 35px;
+    text-align: center;
+}
+
+h2 {
+    color: #F83442;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+label {
+    font-weight: bold;
+    font-size: 17px;
+}
+
+table {
+    margin-top: 30px;
+    text-align: center;
+
+}
+
+table, th, td {
+    vertical-align: inherit !important;
+}
+
+.noresult {
+    text-align: left;
+    font-weight: bold;
+    margin-top: 30px;
+    font-size: 1.2rem;
+}
+
+.category-btn {
+    margin: 5px 5px 5px 5px;
+}
+
+.changePlus {
+    background-color: #3399ff;
+}
+
+.btn-kart {
+    background-color: #F83442;
+}

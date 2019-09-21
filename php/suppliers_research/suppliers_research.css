@@ -1,0 +1,105 @@
+#mainForm{
+    margin-top: 100px;
+}
+
+#filterSection {
+    margin-bottom: 15px;
+}
+
+#filterField {
+    margin-bottom: 25px;
+}
+
+#resultsField, #modalForm {
+    padding: 0px;
+}
+
+#result_content a {
+    font-weight: bold;
+    font-size: 1.75rem;
+}
+
+.errorElement {
+    margin-top: 8px;
+}
+
+.suppliers_error {
+    margin-top: 8px;
+    text-align: center;
+}
+
+.suppliersInfoStyle {
+    margin-bottom: 35px;
+}
+
+.resultReviewValue {
+    font-weight: bold;
+}
+
+.footer-distributed {
+    margin-top: 113px !important;
+}
+
+h2 {
+    color: #F83442;
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+h3 {
+    color: #F83442;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+label {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.big-checkbox-style {
+    width: 15px;
+    height: 15px;
+}
+
+.hidden
+{
+    position:absolute;
+    left:-10000px;
+    top:auto;
+    width:1px;
+    height:1px;
+    overflow:hidden;
+}
+
+.big-checkbox {
+    width: 15px;
+    height: 15px;
+}
+
+.noresult {
+    text-align: left;
+    font-weight: bold;
+    margin-top: 30px;
+    font-size: 1.2rem;
+}
+
+.rating-stars .star:first-child{
+    margin-left: 0px;
+}
+
+.modal-footer-left {
+    display: block;
+}
+
+.zoom {
+  transition: transform 1s;
+}
+
+.zoom:hover {
+  -ms-transform: scale(1.1); /* IE 9 */
+  -webkit-transform: scale(1.1); /* Safari 3-8 */
+  transform: scale(1.1);
+  margin: 1.8%;
+}

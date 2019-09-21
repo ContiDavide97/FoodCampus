@@ -1,0 +1,16 @@
+.clientStartAfterNavbar, .supplierStartAfterNavbar {
+    margin-top: 60px;
+}
+
+.clientImageStartAfterNavbar, .supplierImageStartAfterNavbar {
+    margin-top: 70px;
+}
+
+.jumbotronClientStartAfterNavbar, .jumbotronSupplierStartAfterNavbar {
+    margin-top: 70px;
+}
+
+.supplierTextBoxStartAfterNavbar {
+    margin-top: 75px;
+}
+

@@ -1,0 +1,43 @@
+.change, .changePlus {
+    width: 232px;
+}
+
+.changePlus {
+    background-color: #3399ff;
+}
+
+.changePlus:hover {
+    background-color: #007acc;
+}
+
+.notVisible {
+    display: none;
+}
+
+.validation {
+    font-size: 20px;
+}
+
+@media screen and (max-width: 490px) {
+    .cancelButton, .cancelImageButton {
+        margin-top: 5px;
+    }
+}
+
+@media screen and (max-width: 541px) {
+    .cancelButton, .cancelImageButton {
+        margin-top: 5px;
+    }
+}
+
+@media screen and (min-width: 576px) and (max-width: 768px){
+    .cancelButton, .cancelImageButton {
+        margin-top: 5px;
+    }
+}
+
+@media screen and (min-width: 510px) {
+    .cancelImageButton {
+        margin-top: 0px;
+    }
+}

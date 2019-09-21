@@ -1,0 +1,16 @@
+.media {
+    border-color: #c1c1d7 !important;
+    margin-bottom: 10px;
+}
+
+.media:last-child {
+    margin-bottom: 0px;
+}
+
+.jumbotron > h3:first-child {
+    font-size: 40px;
+}
+
+.footer-distributed {
+    margin-top: 220px !important;
+}

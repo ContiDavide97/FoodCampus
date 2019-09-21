@@ -1,0 +1,49 @@
+body {
+    font-size: 1.1rem;
+}
+
+.big-checkbox {
+    width: 15px;
+    height: 15px;
+}
+
+#loginform{
+    margin-top: 165px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#loginbtn {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.btn {
+    white-space: normal;
+}
+
+#remember_me{
+    margin-top: 25px;
+}
+
+.jumbotron{
+    padding: 1rem 2rem;
+}
+
+.form-title{
+    margin-bottom: 35px;
+    color: #F83442;
+}
+
+.big-checkbox {
+    width: 15px;
+    height: 15px;
+}
+
+label {
+    font-weight: bold;
+}
+
+.errorElement {
+    margin-top: 8px;
+}

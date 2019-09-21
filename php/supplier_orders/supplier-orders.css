@@ -1,0 +1,12 @@
+.media {
+    border-color: #c1c1d7 !important;
+    margin-bottom: 10px;
+}
+
+.media:last-child {
+    margin-bottom: 0px;
+}
+
+.footer-distributed {
+    margin-top: 304px !important;
+}

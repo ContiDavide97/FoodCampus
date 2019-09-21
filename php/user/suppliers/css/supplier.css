@@ -1,0 +1,95 @@
+#numberReview {
+    font-size: 25px;
+}
+
+.container .jumbotron {
+    margin-top: 2%;
+}
+
+.btn-kart {
+    background-color: #F83442;
+}
+
+.addNewProduct {
+    background-color: #00cc66;
+    margin-bottom: 20px;
+}
+
+@media screen and (min-width: 768px) {
+    .fixCancelChangeProduct {
+        margin-left: 4px;
+    }
+}
+
+@media screen and (max-width: 576px) and (min-width: 541px) {
+    .fixCancelChangeProduct {
+        margin-left: 4px;
+    }
+}
+
+@media screen and (max-width: 540.9px) {
+    .fixCancelChangeProduct {
+        display: inline-block !important;
+    }
+}
+
+.btn-kart:hover {
+    background-color: #cc0000;
+}
+
+.addNewProduct:hover {
+    background-color: #00994d;
+}
+
+@media screen and (max-width: 576px) {
+    .productCost {
+        float: none;
+    }
+}
+
+@media screen and (min-width: 577px) {
+    .productCost {
+        float: right;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .container .jumbotron .row .col-sm-7 .btn {
+        margin-bottom: 14px;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .deleteProduct {
+        margin-top: 15px;
+    }
+}
+
+#changeImage, #newSupplierImage {
+    margin-top: 8px;
+}
+
+.container .jumbotron .product {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.container .form-group .btn {
+    margin-top: 10px;
+}
+
+#addTitleReview {
+    margin-top: 3px;
+}
+
+#imageClient {
+    width: 60px;
+}
+
+#mediasReviews .media:not(:first-child) {
+    margin-top: 15px;
+}
+
+#newUserImage {
+    margin-top: 15px;
+}
